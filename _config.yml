@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
 gem "github-pages", group: :jekyll_plugins
-title: Hierarchical Community Structure
-description: Capturing the structure of practical SAT formulas
+title: Hierarchical Community Structure of Boolean SAT Formulas
 show_downloads: false
