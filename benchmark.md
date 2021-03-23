@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Benchmark Instances
 The benchmark instances we used in our experiments came from a combination of sources, including the [SAT Competition](http://www.satcompetition.org/), [Hardware Model Checking Competition](http://fmv.jku.at/hwmcc/), and various instance generators.
 We outline the benchmark instances for each category in detail here:

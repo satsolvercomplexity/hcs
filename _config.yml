@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 gem "github-pages", group: :jekyll_plugins
-title: Hierarchical Community Structure
-description: of Boolean SAT Formulas
+title: HCS of Boolean SAT Formulas
 show_downloads: false
+markdown: kramdown
