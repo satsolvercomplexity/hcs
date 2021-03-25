@@ -1,0 +1,27 @@
+- name: "Principal Investigator"
+  list:
+  - name: Vijay Ganesh
+    link: https://ece.uwaterloo.ca/~vganesh/
+    affiliation: University of Waterloo
+- name: "Main Authors"
+  list:
+  - name: Chunxiao Li
+    affiliation: University of Waterloo
+  - name: Jonathan Chung
+    link: https://jonathanchung.xyz/
+    affiliation: University of Waterloo
+- name: Collaborators
+  list:
+  - name: Soham Mukherjee
+    affiliation: University of Waterloo; Perimeter Institute
+  - name: Marc Vinyals
+    link: http://www.csc.kth.se/~vinyals/
+    affiliation: Technion
+  - name: Noah Fleming
+    link: https://www.cs.toronto.edu/~noahfleming/
+    affiliation: University of Toronto
+  - name: Antonina Kolokolova
+    link: http://www.cs.mun.ca/~kol/
+    affiliation: Memorial University of Newfoundland
+  - name: Alice Mu
+    affiliation: University of Waterloo
