@@ -4,7 +4,7 @@ layout: default
 
 # Data
 
-The following table is a comprehensive list of the features we computed and used in our experiments. The table contains the name of the feature as it appears in our code, as well as a description of each basic feature.
+Although we only propose a small number of base HCS parameters in our paper, they can be combined in many ways to capture different structural information about the instance. The following table is a comprehensive list of all the computed features which were used for our machine learning classification and regression results. This includes our proposed HCS parameters as well as other parameters which we believe to be important, such as mergeability. The table contains the name of the feature as it appears in our code, as well as a description of each basic feature.
 
 <table>
 {% assign header = "**Feature Name** | **Description**" | split: "|" %}
