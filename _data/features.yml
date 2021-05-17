@@ -1,0 +1,98 @@
+- name: numVars
+  desc: the number of distinct variables in the formula
+- name: numClauses
+  desc: the number of distinct clauses in the formula
+- name: CVR
+  desc: numClauses / numVars
+- name: dvMean
+  desc: the average number of times a variable appears
+- name: dvVariance
+  desc: the variance in the number of times a variable appears
+- name: numCommunities
+  desc: total number of communities
+- name: numLeaves
+  desc: total number of leaf-communities
+- name: avgLeafDepth
+  desc: average leaf depth
+- name: depthMostLeaves
+  desc: the depth with the most leaf-communities
+- name: rootInterVars
+  desc: the number of inter-community variables at the root level
+- name: lvl2InterVars
+  desc: the average number of inter-community variables at depth 2
+- name: lvl3InterVars
+  desc: the average number of inter-community variables at depth 3
+- name: rootInterEdges
+  desc: the number of inter-community edges at the root level
+- name: lvl2InterEdges
+  desc: the average number of inter-community edges at depth 2
+- name: lvl3InterEdges
+  desc: the average number of inter-community edges at depth 3
+- name: rootDegree
+  desc: the number of communities at the root level
+- name: lvl2Degree
+  desc: the average number of communities at depth 2
+- name: lvl3Degree
+  desc: the average number of communities at depth 3
+- name: maxDegree
+  desc: the maximum degree over all levels
+- name: rootModularity
+  desc: the modularity of the graph at the root level
+- name: lvl2Modularity
+  desc: the average modularity at depth 2
+- name: lvl3Modularity
+  desc: the average modularity at depth 3
+- name: maxModularity
+  desc: the maximum modularity over all levels
+- name: rootMergeability
+  desc: the mergeability score between all variables
+- name: lvl2Mergeability
+  desc: the average mergeability score of a community at depth 2
+- name: lvl3Mergeability
+  desc: the average mergeability score of a community at depth 3
+- name: maxMergeability
+  desc: the maximum mergeability over all levels
+- name: lvl2CommunitySize
+  desc: the average number of variables in a community at depth 2
+- name: lvl3CommunitySize
+  desc: the average number of variables in a community at depth 3
+- name: leafCommunitySize
+  desc: the average number of variables in a leaf-community
+- name: numLeaves / numCommunities
+  desc:
+- name: rootInterEdges / rootInterVars
+  desc:
+- name: lvl2InterEdges / lvl2InterVars
+  desc:
+- name: lvl3InterEdges / lvl3InterVars
+  desc:
+- name: max(interEdges / interVars)
+  desc: the maximum interEdges / interVars ratio over all levels
+- name: rootInterEdges / rootCommunitySize
+  desc:
+- name: lvl2InterEdges / lvl2CommunitySize
+  desc:
+- name: lvl3InterEdges / lvl3CommunitySize
+  desc:
+- name: max(interEdges / communitySize)
+  desc: the maximum interEdges / communitySize ratio over all levels
+- name: rootInterVars / rootCommunitySize
+  desc:
+- name: lvl2InterVars / lvl2CommunitySize
+  desc:
+- name: lvl3InterVars / lvl3CommunitySize
+  desc:
+- name: max(interVars / communitySize)
+  desc: the maximum interVars / communitySize ratio over all levels
+- name: rootInterEdges / rootDegree
+  desc:
+- name: lvl2InterEdges / lvl2Degree
+  desc:
+- name: lvl3InterEdges / lvl3Degree
+  desc:
+- name: rootInterVars / rootDegree
+  desc:
+- name: lvl2InterVars / lvl2Degree
+  desc:
+- name: lvl3InterVars / lvl3Degree
+  desc:
