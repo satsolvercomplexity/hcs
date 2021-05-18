@@ -1,0 +1,16 @@
+- name: rootMergeability
+  desc: maxMergeability
+- name: maxInterEdges / CommunitySize
+  desc: maxInterEdges / InterVars
+- name: rootInterEdges
+  desc:
+- name: lvl2Mergeabilty
+  desc:
+- name: cvr
+  desc: dvVariance
+- name: leafCommunitySize
+  desc:
+- name: lvl3Modularity
+  desc: lvl2Degree, lvl3Degree
+- name: lvl2InterEdges / lvl2InterVars
+  desc: lvl2InterEdges / lvl2CommunitySize, lvl3InterEdges / lvl3InterVar, lvl3InterEdges/lvl3CommunitySize
