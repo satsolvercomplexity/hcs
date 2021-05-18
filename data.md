@@ -19,7 +19,7 @@ Although we only propose a small number of base HCS parameters in our paper, the
 </table>
 
 ## Feature Clusters
-In the following tables, we list the representative feature and its parent cluster for predicting solving time and classification of an instance into its category.
+In the following table, we list the representative feature and its parent cluster for predicting solving time and classification of an instance into its category.
 
 <table>
 {% assign header = "**Feature** | **Cluster**" | split: "|" %}
