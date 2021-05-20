@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Projects
-## [Complexity Theory of Solvers](https://satcomplexity.github.io/)
+## [Complexity Theory of Solvers](https://satsolvercomplexity.github.io/)
 This project aims to bridge the practice and theory of SAT.
 
 ## [MapleSAT](https://maplesat.github.io)
